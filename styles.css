@@ -1,3 +1,25 @@
-body{
+body {
     background-color: purple;
+}
+p {
+    font-family:Helvetica, sans-serif;
+    text-align: center;
+    color:lightpink
+}
+h3,h4,h5,h6 {
+    font-family: Helvetica, sans-serif;
+    text-align: right;
+    font-style: bold;
+    color: lightyellow;
+}
+h1 {
+    font-family: Impact;
+    text-align: left;
+    font-size: 100px;
+    color:white;
+    font-style: normal;
+}
+h2 {
+    color:black;
+
 }
